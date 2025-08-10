@@ -3,3 +3,12 @@ __pycache__/
 .env
 classified_data/
 temp_files/s
+
+# Security files
+*.key
+*.pem
+classified/
+secret_data.txt
+# Temporary files
+*.tmp
+*.log
