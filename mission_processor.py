@@ -1,4 +1,4 @@
-def load_personnel_data():
+def load_mission_data():
     """Sample mission data"""
     return [
         {"id": "M001", "location": "Kabul", "status": "Complete", "priority": "High"},
